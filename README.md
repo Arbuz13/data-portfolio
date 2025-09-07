@@ -16,7 +16,7 @@ Each project folder contains code, documentation, and visuals to show both the *
    - Azure Data Lake Gen2, Azure Databricks (Spark), Azure Data Factory  
    - Designed an end-to-end ETL pipeline with governance and cost optimization.
 
-3. [AWS Data Lake & Warehouse](./data-portfolio/aws-data-warehouse) 
+3. [AWS Data Lake & Warehouse](./data-portfolio/aws-data-warehouse-lite) 
    - AWS S3, Pentaho ETL, PostgreSQL (star schema)  
    - Implemented a cloud-based retail data warehouse with fact/dimension tables.
 
