@@ -1,35 +1,31 @@
-# BI Dashboards — Power BI / Tableau / Looker Studio
+# Business Intelligence Dashboards — Power BI · Tableau · Looker Studio
 
+This folder contains my **BI and Analytics Dashboard portfolio**.  
+The dashboards are hosted on **Maven Showcase** for interactive exploration.
 
-# <Project Title>
+---
 
-## Problem
-Describe the business or technical problem.
+## Featured Dashboards
+- **Call Center Channel Effectiveness Dashboard (Power BI)**  
+- **Optimizing Employee Performance & Benefits Programs (Power BI)**  
+- **Coca-Cola Performance & Logistics Dashboards (Power BI)**  
+- **Sales & Shipping Performance Dashboard (Power BI)**  
+- **VendBridge App Engagement & Adoption Dashboard (Tableau)**  
+- **Festman Studio – Sales & Product Performance Dashboard (Power BI)**  
+- **Leveraging Social Determinants of Health (SDOH) Analytics (Tableau)**  
 
-## Method
-- Data sources / size
-- Cleaning & transformations (ETL/ELT)
-- Modeling/analysis approach
-- Tools (Python, SQL, ADF, Databricks, Pentaho, Power BI/Tableau)
+---
+
+👉 [Click here to view all dashboards on Maven Showcase](https://mavenshowcase.com/profile/0821a330-3041-70c2-792e-ce472d1a4bdf)  
+
+---
 
 ## Tech Stack
-- Languages: ...
-- Cloud/Infra: ...
-- ETL/Orchestration: ...
-- Storage/Warehouse: ...
-- Visualization: ...
+- **Power BI** — advanced DAX, custom themes, KPI cards, interactivity  
+- **Tableau** — adoption/engagement analytics, healthcare disparities, HR performance  
+- **Looker Studio** — lightweight reporting and Google ecosystem integration  
 
-## Results
-- Key metrics (accuracy, latency, cost)
-- Screenshots/plots
+---
 
-## Business Impact
-- What changed? Faster reporting? Reduced churn? Savings?
-
-## How to Run
-1. Setup requirements
-2. Run scripts / notebooks
-3. View outputs
-
-## Next Steps
-- Improvements or future work
+## Note
+Since `.pbix` and `.twb` files are often large and not viewable directly in GitHub, all dashboards are shared through **Maven Showcase** for the best recruiter experience.
