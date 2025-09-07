@@ -1,0 +1,1 @@
+Export your star schema diagram as a small PNG named star_schema.png
