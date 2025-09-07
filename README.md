@@ -34,6 +34,17 @@ Each project folder contains code, documentation, and visuals to show both the *
 5. A collection of **interactive BI dashboards** across industries, hosted on Maven Showcase.  
 👉 [View BI Dashboards](./data-portfolio/bi-dashboards)
 
+---
+6. ### Data Visualization with Python — Retail Sales & Operations Insights
+   Exploratory data analysis and storytelling on the **Kaggle Superstore dataset**, uncovering insights on sales, profit, discounts, shipping efficiency, and customer segments.  
+   Delivered as a **36-page report + academic poster**, with interactive Python dashboards built in Plotly.
+
+      - **Tech:** Python (pandas, numpy, plotly, seaborn, matplotlib, jupyter)  
+      - **Highlights:** Profitability breakdown, discount impact, shipping delays, regional/segment KPIs  
+      - **Key Insight:** Discounts above 20% destroy margins despite boosting sales  
+      - [View Project](./data-portfolio/data-visualization-with-python-full)
+
+
 
    
 
