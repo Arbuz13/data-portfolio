@@ -28,6 +28,9 @@ Managing data across multiple restaurant locations is complex:
 - Automated **daily revenue reports, sales reports by category, and inventory tracking**.
 - Improved data integrity and reduced redundancy with 3NF design.
 
+<img width="1518" height="875" alt="ERD" src="https://github.com/user-attachments/assets/80a20da8-2c61-4948-b871-ec42d992c0ac" />
+
+
 ## Business Impact
 - Enabled restaurant chain to:
   - Generate **real-time revenue insights** by location.
