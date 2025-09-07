@@ -8,7 +8,7 @@ Each project folder contains code, documentation, and visuals to show both the *
 ## Projects
 
 ### Data Engineering
-1. [PostgreSQL Restaurant DBMS](./postgresql-restaurant-dbms)  
+1. [PostgreSQL Restaurant DBMS](./data-portfolio/postgresql-restaurant-dbms) 
    - PostgreSQL, SQL, ERD (3NF normalization), data security (roles, masking, triggers)  
    - Built a scalable restaurant chain database with sales, reservations, inventory, and automated reporting.
 
