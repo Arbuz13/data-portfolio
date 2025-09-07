@@ -1,4 +1,4 @@
-# Data Portfolio — Providence Sunday William
+# Data Portfolio — Providence Ogheneruese Williams
 
 This portfolio highlights selected work across **Data Engineering, Machine Learning, and Business Intelligence**.
 Each project folder contains code, documentation, and visuals to show both the **technical process** and the **business impact**.
