@@ -1,0 +1,1 @@
+-- Example: SELECT * FROM delta.`abfss://curated@<storage-account>.dfs.core.windows.net/superstore_delta` LIMIT 10;
