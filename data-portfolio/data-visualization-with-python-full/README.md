@@ -1,4 +1,4 @@
-# 📈 Data Visualization with Python — Retail Sales & Operations Insights
+# Data Visualization with Python — Retail Sales & Operations Insights
 
 This project analyses the **Superstore dataset (Kaggle)** to uncover actionable insights in **sales, profitability, discounts, shipping, and customer segmentation**.  
 It was originally completed as part of my **Data Visualization with Python module (2025)** and presented as both a full report and a poster.
@@ -7,7 +7,7 @@ It was originally completed as part of my **Data Visualization with Python modul
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Identify top-performing product categories and products  
 - Assess the **impact of discounts** on sales and profits  
 - Evaluate **shipping efficiency** and its effect on profitability  
@@ -16,10 +16,9 @@ It was originally completed as part of my **Data Visualization with Python modul
 
 ---
 
-## 🔄 Methodology
+## Methodology
 **Load → Clean → Explore → Visualize → Summarize → Recommend**
 
-![Methodology](./docs/methodology.png)
 
 1. Data cleaning: type conversions, duplicate removal, feature engineering (`Shipping Delay = Actual - Scheduled`)  
 2. Outlier inspection (profit, sales) retained for business insight  
@@ -29,7 +28,7 @@ It was originally completed as part of my **Data Visualization with Python modul
 
 ---
 
-## 📊 Key Findings & Insights
+## Key Findings & Insights
 
 - **KPIs:** $2.3M sales, $286K profit, 37.9K units sold; avg. discount **15.6%**; shipping efficiency avg. **-0.36 days** (early).  
 - **Profitability:** 77.7% of orders profitable; Furniture = sales-heavy but low margin; Office Supplies = high profitability ratio.  
@@ -40,19 +39,16 @@ It was originally completed as part of my **Data Visualization with Python modul
 
 ---
 
-## 🖼 Figure Gallery
+## Figure Gallery
+<img width="1118" height="1500" alt="newplot (28)" src="https://github.com/user-attachments/assets/50f503f9-eff1-47e3-a8f0-9f6b110cd964" />
 
-- ![KPI Card](./docs/fig_kpi.png)  
-- ![Profitability](./docs/fig_profitability.png)  
-- ![Trends](./docs/fig_trend.png)  
-- ![Discount Impact](./docs/fig_discount.png)  
-- ![Shipping Dashboard](./docs/fig_shipping.png)  
-- ![Segmentation Dashboard](./docs/fig_segments.png)  
-- ![Poster](./docs/poster_summary.png)  
+
 
 ---
 
-## ✅ Recommendations
+## Recommendations<img width="1118" height="1500" alt="newplot (28)" src="https://github.com/user-attachments/assets/50f503f9-eff1-47e3-a8f0-9f6b110cd964" />
+<img width="1164" height="570" alt="Screenshot 2025-04-27 at 12 06 44 pm" src="https://github.com/user-attachments/assets/0e5f6ba5-4e93-4055-8a74-65989b6094cf" />
+
 - Keep **discounts below 20%** to protect margins  
 - Review Furniture pricing & costs to fix weak profitability  
 - Improve shipping reliability in **First/Second Class** modes  
@@ -61,7 +57,7 @@ It was originally completed as part of my **Data Visualization with Python modul
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 - **Python**: pandas, numpy, plotly (go, make_subplots)  
 - **EDA/Prep**: Jupyter Notebook  
 - **Poster**: Tableau + PowerPoint  
@@ -69,7 +65,7 @@ It was originally completed as part of my **Data Visualization with Python modul
 
 ---
 
-## 📄 Deliverables
+## Deliverables
 - Full report: [Visualisation assessment report.docx](../Visualisation assessment report.docx)  
 - Poster: [Poster work Visualization 240.pdf](../Poster work Visualization 240.pdf)  
 - Notebook: [assessment_visualisation.ipynb](./notebooks/assessment_visualisation.ipynb)
