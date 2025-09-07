@@ -29,10 +29,13 @@ Each project folder contains code, documentation, and visuals to show both the *
 
 ---
 
-### Business Intelligence
-5. [BI Dashboards](./data-portfolio/bi-dashboards) 
-   - Power BI, Tableau, Looker Studio  
-   - Created interactive dashboards for call centers, app adoption, Coca-Cola sales, and HR analytics.
+
+### Business Intelligence Dashboards
+5. A collection of **interactive BI dashboards** across industries, hosted on Maven Showcase.  
+👉 [View BI Dashboards](./data-portfolio/bi-dashboards)
+
+
+   
 
 ---
 
