@@ -54,6 +54,13 @@ azure-big-data-pipeline/
 └─ sql/
    └─ curated_queries.sql            # example analytics queries over Delta/Parquet
 ```
+- architecture.png 
+<img width="908" height="647" alt="Screenshot 2025-06-09 at 8 29 49 am" src="https://github.com/user-attachments/assets/985eda84-5b41-4eb2-bf0d-14853740a114" />
+
+- Cost Analysis.png
+<img width="1512" height="904" alt="Screenshot 2025-06-07 at 8 25 20 am" src="https://github.com/user-attachments/assets/7681cda8-8694-4eaf-8ae9-ce0c54bb8e5c" />
+  
+<img width="1241" height="598" alt="Screenshot 2025-06-07 at 8 25 39 am" src="https://github.com/user-attachments/assets/3ce8b6f4-b116-467f-b3dc-d2e0dd460d21" />
 
 ## How to Run (Guide)
 1. Provision Azure resources
