@@ -1,22 +1,20 @@
-# 🧹 Data Cleaning with Python — From Raw Excel to Analysis-Ready CSV
+# Data Cleaning with Python — From Raw Excel to Analysis-Ready CSV
 
 This mini-project demonstrates how to take a **messy Excel dataset** and transform it into a **clean, structured CSV** ready for analysis.  
 It highlights core **data wrangling** skills that are essential in every analytics and data engineering workflow.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Audit the raw dataset for missing values, duplicates, and inconsistent formatting  
 - Apply cleaning steps: drop/rename columns, handle nulls, standardize types  
 - Export a clean, well-structured CSV for downstream use  
 
 ---
 
-## 🔄 Methodology
+## Methodology
 
 **Load → Inspect → Clean → Validate → Export**
-
-![Methodology](./docs/methodology.png)
 
 1. **Load** the raw Excel dataset (`unclean_dataset.xlsx`).  
 2. **Inspect** columns, missingness, data types.  
@@ -30,14 +28,9 @@ It highlights core **data wrangling** skills that are essential in every analyti
 
 ---
 
-## 📊 Before & After Example
-
-![Before vs After](./docs/before_after.png)  
-*Left: messy input (Excel). Right: clean output (CSV).*
-
 ---
 
-## 🗂 Repository Structure
+## Repository Structure
 
 ```
 data-cleaning-with-python/
@@ -49,14 +42,14 @@ data-cleaning-with-python/
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 - **Python**: pandas, numpy  
 - **Excel/CSV**: openpyxl engine for Excel, pandas I/O for CSV  
 - **Jupyter** for workflow documentation  
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 # Install dependencies
@@ -68,7 +61,7 @@ jupyter notebook notebooks/data_cleaning.ipynb
 
 ---
 
-## ✅ Outcome
+## Outcome
 - A cleaned dataset with consistent schema, no duplicates, and valid types.  
 - Workflow reproducible in `data_cleaning.ipynb`.  
 
