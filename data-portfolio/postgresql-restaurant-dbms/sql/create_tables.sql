@@ -1,0 +1,1 @@
+-- SQL script to create normalized tables (menu, reservations, customers, transactions, inventory)

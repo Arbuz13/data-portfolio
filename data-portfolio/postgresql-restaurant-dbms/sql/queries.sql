@@ -1,0 +1,1 @@
+-- SQL queries for analytics: sales by category, top items, reservations, inventory, revenue by location
