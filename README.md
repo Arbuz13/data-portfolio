@@ -29,7 +29,6 @@ Each project folder contains code, documentation, and visuals to show both the *
 
 ---
 
-
    ### Business Intelligence Dashboards
 5. A collection of **interactive BI dashboards** across industries, hosted on Maven Showcase.  
 👉 [View BI Dashboards](./data-portfolio/bi-dashboards)
@@ -44,9 +43,15 @@ Each project folder contains code, documentation, and visuals to show both the *
       - **Key Insight:** Discounts above 20% destroy margins despite boosting sales  
       - [View Project](./data-portfolio/data-visualization-with-python-full)
 
+7. ### Data Cleaning with Python — From Raw Excel to Analysis-Ready CSV
+   A mini-project showcasing **data wrangling skills**: transforming a messy Excel dataset into a clean, structured CSV ready for analysis.  
+   Covers inspection, handling missing values, deduplication, type fixes, and validation.
 
+   - **Tech:** Python (pandas, numpy, openpyxl, jupyter)  
+   - **Workflow:** Load → Inspect → Clean → Validate → Export  
+   - **Outcome:** Reproducible cleaning pipeline with raw vs cleaned dataset comparison  
+   - [View Project](./data-portfolio/data-cleaning-with-python)
 
-   
 
 ---
 
