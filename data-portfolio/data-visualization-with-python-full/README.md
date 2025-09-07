@@ -40,14 +40,12 @@ It was originally completed as part of my **Data Visualization with Python modul
 ---
 
 ## Figure Gallery
+
 <img width="1118" height="1500" alt="newplot (28)" src="https://github.com/user-attachments/assets/50f503f9-eff1-47e3-a8f0-9f6b110cd964" />
-
-
-
+<img width="1164" height="570" alt="Screenshot 2025-04-27 at 12 06 44 pm" src="https://github.com/user-attachments/assets/0e5f6ba5-4e93-4055-8a74-65989b6094cf" />
 ---
 
-## Recommendations<img width="1118" height="1500" alt="newplot (28)" src="https://github.com/user-attachments/assets/50f503f9-eff1-47e3-a8f0-9f6b110cd964" />
-<img width="1164" height="570" alt="Screenshot 2025-04-27 at 12 06 44 pm" src="https://github.com/user-attachments/assets/0e5f6ba5-4e93-4055-8a74-65989b6094cf" />
+## Recommendations
 
 - Keep **discounts below 20%** to protect margins  
 - Review Furniture pricing & costs to fix weak profitability  
