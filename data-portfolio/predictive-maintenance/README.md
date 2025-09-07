@@ -7,7 +7,7 @@ It covers **EDA → preprocessing → feature engineering → modeling (LR / RF 
 
 ---
 
-## 📦 Project Highlights
+## Project Highlights
 
 - **Two tasks:** Binary (Failure vs No Failure) and **Multiclass** (6 classes: No Failure, Heat Dissipation, Power, Overstrain, Tool Wear, Random).
 - **Models:** Logistic Regression (baseline), **Random Forest**, **XGBoost** (best overall).
@@ -18,11 +18,12 @@ It covers **EDA → preprocessing → feature engineering → modeling (LR / RF 
 
 ---
 
-## 🔄 Methodology
+## Methodology
 
 **Ingest → EDA → Clean → Engineer → Scale/Split → Train → Tune → Explain → Deploy**
 
-![Methodology](./docs/methodology.png)
+<img width="463" height="338" alt="image" src="https://github.com/user-attachments/assets/a86bb22a-2098-4300-9934-99bbce282cad" />
+
 *Figure 1: Methodology flow (replace with your diagram).*
 
 **Key steps**
@@ -38,7 +39,7 @@ It covers **EDA → preprocessing → feature engineering → modeling (LR / RF 
 
 ---
 
-## 🏗 Data & Features
+## Data & Features
 
 - **Inputs:** `Air temperature [K]`, `Process temperature [K]`, `Rotational speed [rpm]`, `Torque [Nm]`, `Tool wear [min]`, `Type_encoded`
 - **Engineered:** `temperature_diff = Process temperature - Air temperature`
@@ -48,7 +49,7 @@ It covers **EDA → preprocessing → feature engineering → modeling (LR / RF 
 
 ---
 
-## 📈 Results (from dissertation/experiments)
+## Results (from dissertation/experiments)
 
 - **Binary classification**
   - **Random Forest / XGBoost:** **Accuracy ≈ 0.9845**, strong recall for failure class
@@ -62,7 +63,7 @@ It covers **EDA → preprocessing → feature engineering → modeling (LR / RF 
 
 ---
 
-## 🖼 Figures & Diagrams
+## Figures & Diagrams
 
 - **Methodology:** `./docs/methodology.png`
 - **EDA:** distributions, outliers before/after winsorization (`./docs/eda_*.png`)
@@ -74,7 +75,7 @@ It covers **EDA → preprocessing → feature engineering → modeling (LR / RF 
 
 ---
 
-## 🗂 Repository Structure
+## Repository Structure
 
 ```
 predictive-maintenance/
@@ -108,7 +109,7 @@ predictive-maintenance/
 
 ---
 
-## 🧪 Reproduce: Train the XGBoost Multiclass Model
+## Reproduce: Train the XGBoost Multiclass Model
 
 ```bash
 # 1) Create & activate a venv (recommended)
@@ -128,7 +129,7 @@ python scripts/train_xgb.py --data ./data/predictive_maintenance.csv --out ./mod
 
 ---
 
-## ▶️ Run the Streamlit App
+## Run the Streamlit App
 
 ```bash
 # In the project root
@@ -138,14 +139,14 @@ The app expects `./models/xgb_multiclass_pipeline.pkl`. After training, ensure t
 
 ---
 
-## 🔍 Model Explainability (SHAP)
+## Model Explainability (SHAP)
 
 The app computes a **SHAP waterfall** for the predicted class on the provided input.  
 Export your **global SHAP** plots (summary/violin) from the notebook into `./docs/` and reference them here.
 
 ---
 
-## 📄 Data & Ethics
+## Data & Ethics
 
 - Use only **public/synthetic** data in this repo.
 - Never commit secrets or sensitive data.
@@ -153,7 +154,7 @@ Export your **global SHAP** plots (summary/violin) from the notebook into `./doc
 
 ---
 
-## ✅ Credits
+## Credits
 
 - Dissertation/Report: *Predictive Maintenance in Manufacturing Industries: Leveraging Machine Learning for Operational Efficiency* (2025)
 - Author: **Williams Providence Ogheneruese**
